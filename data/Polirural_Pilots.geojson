@@ -9,110 +9,98 @@
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "EU 1",
-        "name": "VITO",
+        "name": "Flanders, Belgium",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [4.38, 51.04] }
+      "geometry": { "type": "Point", "coordinates": [4.06, 51.14] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "EU 2",
-        "name": "LESP",
-        "website": "http://www.lesprojekt.cz"
-      },
-      "geometry": { "type": "Point", "coordinates": [14.6326285, 50.2141452] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "pilot_id": "EU 3",
-        "name": "UGENT & AGRISAT",
+        "name": "Monaghan, Ireland",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [-4, 40] }
+      "geometry": { "type": "Point", "coordinates": [-6.9693, 54.2475] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "EU 3",
-        "name": "UGENT & AGRISAT",
+        "name": "Segóbriga, Spain",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [3.7250, 51.0538] }
+      "geometry": { "type": "Point", "coordinates": [-2.8120, 39.8878] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "EU 4",
-        "name": "PLAN4ALL",
-        "website": "https://www.plan4all.eu/"
-      },
-      "geometry": { "type": "Point", "coordinates": [13.3662336, 49.8426847] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "pilot_id": "EU 5",
-        "name": "UP",
+        "name": "Vidzeme, Latvia",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [17.2463, 46.7675] }
+      "geometry": { "type": "Point", "coordinates": [25.666, 57.299] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "EU 6",
-        "name": "AUTH & KEFALAS",
+        "name": "Mazowieckie, Poland",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [22.9353, 40.6403] }
+      "geometry": { "type": "Point", "coordinates": [21.01, 52.23] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "EU 7",
-        "name": "AUTH",
+        "name": "Central Bohemia, Czech Republic",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": { "type": "Point", "coordinates": [14.55, 50.00] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "CHINA 1",
-        "name": "IEDSA/CAAS",
+        "name": "Slovakia Region",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [105.61, 39.60] }
+      "geometry": { "type": "Point", "coordinates": [18.0675, 48.3091] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "CHINA 2",
-        "name": "ISSCAS",
+        "name": "Häme, Finland",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [120.73, 32.55] }
+      "geometry": { "type": "Point", "coordinates": [24.4665, 60.9949] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "CHINA 3",
-        "name": "ISSCAS",
+        "name": "Central Greece, Greece",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [122.91, 45.66] }
+      "geometry": { "type": "Point", "coordinates": [22.44, 38.65] }
     },
     {
       "type": "Feature",
       "properties": {
-        "pilot_id": "CHINA 4",
-        "name": "TU",
+        "name": "Apulia, Italy",
         "website": ""
       },
-      "geometry": { "type": "Point", "coordinates": [87.84, 42.92] }
+      "geometry": { "type": "Point", "coordinates": [16.862, 41.126] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gevgelija-Strumica, Macedonia",
+        "website": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [22.6397, 41.4392] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galilee, Israel",
+        "website": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [35.3410, 32.9000] }
     }
   ]
 }
