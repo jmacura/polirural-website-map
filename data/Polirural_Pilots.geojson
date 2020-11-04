@@ -97,7 +97,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Galilee, Israel",
+        "name": "Upper Galilee, Israel",
         "website": ""
       },
       "geometry": { "type": "Point", "coordinates": [35.3410, 32.9000] }
