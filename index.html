@@ -69,7 +69,7 @@
             }),
             cluster: false,
             onFeatureSelected: (feature) => {
-              feature.get('website') ? window.open(feature.get('website'), '_blank') : null;
+              feature.get('website') ? window.open(feature.get('website'), '_top') : null;
             }
           })
         ],
