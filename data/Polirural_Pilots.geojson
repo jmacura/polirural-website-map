@@ -10,7 +10,7 @@
       "type": "Feature",
       "properties": {
         "name": "Flanders, Belgium",
-        "website": ""
+        "website": "https://hub.polirural.eu/flanders-belgium"
       },
       "geometry": { "type": "Point", "coordinates": [4.06, 51.14] }
     },
@@ -18,7 +18,7 @@
       "type": "Feature",
       "properties": {
         "name": "Monaghan, Ireland",
-        "website": ""
+        "website": "https://hub.polirural.eu/monaghan-ireland"
       },
       "geometry": { "type": "Point", "coordinates": [-6.9693, 54.2475] }
     },
@@ -26,7 +26,7 @@
       "type": "Feature",
       "properties": {
         "name": "Segóbriga, Spain",
-        "website": ""
+        "website": "https://hub.polirural.eu/segobriga-spain"
       },
       "geometry": { "type": "Point", "coordinates": [-2.8120, 39.8878] }
     },
@@ -34,7 +34,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vidzeme, Latvia",
-        "website": ""
+        "website": "https://hub.polirural.eu/vidzeme-latvia"
       },
       "geometry": { "type": "Point", "coordinates": [25.666, 57.299] }
     },
@@ -42,7 +42,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mazowieckie, Poland",
-        "website": ""
+        "website": "https://hub.polirural.eu/mazowieckie-poland"
       },
       "geometry": { "type": "Point", "coordinates": [21.01, 52.23] }
     },
@@ -50,7 +50,7 @@
       "type": "Feature",
       "properties": {
         "name": "Central Bohemia, Czech Republic",
-        "website": ""
+        "website": "https://hub.polirural.eu/central-bohemian-region-czech-republic"
       },
       "geometry": { "type": "Point", "coordinates": [14.55, 50.00] }
     },
@@ -58,7 +58,7 @@
       "type": "Feature",
       "properties": {
         "name": "Slovakia Region",
-        "website": ""
+        "website": "https://hub.polirural.eu/slovakia-region"
       },
       "geometry": { "type": "Point", "coordinates": [18.0675, 48.3091] }
     },
@@ -66,7 +66,7 @@
       "type": "Feature",
       "properties": {
         "name": "Häme, Finland",
-        "website": ""
+        "website": "https://hub.polirural.eu/h%C3%A4me-finland"
       },
       "geometry": { "type": "Point", "coordinates": [24.4665, 60.9949] }
     },
@@ -74,7 +74,7 @@
       "type": "Feature",
       "properties": {
         "name": "Central Greece, Greece",
-        "website": ""
+        "website": "https://hub.polirural.eu/central-greece-greece"
       },
       "geometry": { "type": "Point", "coordinates": [22.44, 38.65] }
     },
