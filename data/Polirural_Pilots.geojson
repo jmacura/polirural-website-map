@@ -82,7 +82,7 @@
       "type": "Feature",
       "properties": {
         "name": "Apulia, Italy",
-        "website": ""
+        "website": "https://hub.polirural.eu/apulia-italy"
       },
       "geometry": { "type": "Point", "coordinates": [16.862, 41.126] }
     },
@@ -90,7 +90,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gevgelija-Strumica, Macedonia",
-        "website": ""
+        "website": "https://hub.polirural.eu/gevgelija-strumica-north-macedonia"
       },
       "geometry": { "type": "Point", "coordinates": [22.6397, 41.4392] }
     },
@@ -98,7 +98,7 @@
       "type": "Feature",
       "properties": {
         "name": "Upper Galilee, Israel",
-        "website": ""
+        "website": "https://hub.polirural.eu/galilee-israel"
       },
       "geometry": { "type": "Point", "coordinates": [35.3410, 32.9000] }
     }
